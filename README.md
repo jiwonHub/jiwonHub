@@ -3,7 +3,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=7F52FF&fontColor=ffffff&text=JiwonHub's%20Android%20Diary&fontSize=60)
 
-  
   #### 👨‍💻 my Stack 
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><br/>
