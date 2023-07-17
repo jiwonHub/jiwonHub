@@ -4,7 +4,11 @@
 <br/>
 <div align="center>
 
-  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   ## 👨‍💻 my Stack 
   <br/><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><br/>
