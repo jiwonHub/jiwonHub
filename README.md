@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center>
 
-<!--
-**jiwonHub/jiwonHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=7F52FF&fontColor=ffffff&text=JiwonHub's%20Android%20Diary&fontSize=60)
+  <br/>
+  <br/>
 
-Here are some ideas to get you started:
+  ## 👨‍💻 my Stack
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Retrofit-00ff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coroutine-ff6666?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Room-808080?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Koin-ffff00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Crawling-000000?style=for-the-badge">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 💻 projects
+</div>
