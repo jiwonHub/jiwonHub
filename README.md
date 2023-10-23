@@ -1,6 +1,6 @@
  
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JiwonHub's%20Adnroid%20Diary&fontSize=60" />	
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JiwonHub's%20Android%20Diary&fontSize=60" />	
 </div>
   
 <div align=center>
